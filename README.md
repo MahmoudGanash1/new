@@ -1,86 +1,108 @@
-# 📊 Sales Performance Analytics Dashboard
+# 🚗 Car Sales Dashboard (Power BI)
 
-An interactive Power BI dashboard built to analyze **1.4M+ sales revenue**, uncover profit drivers, and provide actionable insights across regions, customers, and product categories.
+An interactive Power BI dashboard designed to analyze **car sales performance**, track KPIs over time, and provide actionable insights on revenue, pricing, and dealer performance.
 
-The solution transforms raw transactional data into a **decision-support system** for improving revenue performance and business strategy.
+The dashboard enables stakeholders to monitor **sales growth, pricing trends, and vehicle demand distribution** across regions and categories.
 
 ---
 
 ## 🎯 BUSINESS PROBLEM
 
-The organization lacked clear visibility into:
-- Regional performance differences
-- Profitability by product category
-- Customer contribution to revenue
-- Shipping efficiency impact on sales
-
-This led to inefficient decision-making and missed growth opportunities.
+The business needed better visibility into:
+- Sales performance trends over time (YTD / MTD / YOY)
+- Pricing fluctuations and average price changes
+- Car demand across body styles, colors, and regions
+- Dealer performance comparison and contribution
 
 ---
 
 ## 💡 SOLUTION
 
-Developed a fully interactive Power BI dashboard that:
-- Centralizes sales performance data
-- Provides multi-dimensional analysis (Region, Segment, Category, Time)
-- Enables real-time filtering and exploration
-- Highlights top-performing and underperforming areas
+Developed a comprehensive Power BI dashboard that:
+- Tracks real-time sales performance using KPI metrics
+- Enables year-over-year and month-to-date comparisons
+- Provides multi-dimensional analysis (Region, Body Style, Color, Dealer)
+- Visualizes sales trends and distribution patterns
 
 ---
 
-## 🛠 TOOLS & TECH STACK
+## 🛠 TOOLS & TECHNOLOGIES
 
-- Power BI (Data Visualization)
-- DAX (Advanced Calculations & KPIs)
-- Data Modeling (Star Schema)
-- Data Cleaning & Transformation
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Data Modeling  
+- Data Visualization  
 
 ---
 
-## 📊 KEY METRICS
+## 📊 KEY KPIs
 
-- 💰 Total Sales: 1.4M+ peak revenue  
-- 📈 Profit Tracking across all categories & regions  
-- 🧾 Customer Segments: Corporate, Consumer, Home Office, Small Business  
-- 🌍 Regions: Ontario, West, Quebec, Atlantic  
-- 🚚 Shipping Modes: Regular, Delivery, Express  
-- 📅 Time Intelligence: Daily & Monthly trends  
+### 🚗 Sales Overview
+- YTD Total Sales  
+- MTD Total Sales  
+- YOY Growth in Total Sales  
+- Difference between YTD and PTYD Sales  
+
+### 💰 Average Price Analysis
+- YTD Average Price  
+- MTD Average Price  
+- YOY Growth in Average Price  
+- Difference between YTD and PTYD Average Price  
+
+### 🚘 Cars Sold Metrics
+- YTD Cars Sold  
+- MTD Cars Sold  
+- YOY Growth in Cars Sold  
+- Difference between YTD and PTYD Cars Sold  
+
+---
+
+## 📈 DASHBOARD VISUALS
+
+- 📊 YTD Sales Weekly Trend  
+- 🚗 Sales by Body Style  
+- 🎨 Sales by Color  
+- 🌍 Cars Sold by Dealer Region  
+- 📉 Company-Wise Sales Trend (Grid View)  
+- 📋 Detailed Sales Information Grid  
+
+---
+
+## 🖼️ DASHBOARD PREVIEW
+
+![1](https://github.com/user-attachments/assets/b200a54c-d1db-4ad4-915e-4b6240f004b2)
+
+![2](https://github.com/user-attachments/assets/92f9ff7b-cdf8-4108-96bd-57976d8af684)
 
 ---
 
 ## 🔍 KEY INSIGHTS
 
-- Ontario is the highest-performing region (~0.35M+ sales contribution)  
-- Sales peak consistently in January and September  
-- Corporate segment dominates revenue with ~36% share  
-- Regular shipping accounts for ~50%+ of all orders  
-- Sales trends show strong mid-month performance spikes  
+- Strong seasonal trends observed in weekly sales performance  
+- Certain body styles dominate total revenue contribution  
+- Specific colors show higher market demand  
+- Dealer regions vary significantly in sales performance  
+- A small group of companies contributes a large share of total sales  
 
 ---
 
 ## 📈 BUSINESS IMPACT
 
-- Improved visibility of sales performance across all dimensions  
-- Enabled identification of top revenue-driving customers and categories  
-- Supported data-driven pricing and sales strategy decisions  
-- Enhanced understanding of profitability distribution  
-- Reduced blind spots in regional performance analysis  
+- Improved visibility into car sales performance across multiple dimensions  
+- Enabled data-driven pricing and inventory decisions  
+- Helped identify top-performing body styles and regions  
+- Enhanced forecasting accuracy using YTD vs PYTD comparisons  
+- Supported strategic decision-making for dealership expansion  
 
 ---
 
-## ⚡ KEY FEATURES
+## ⚡ KEY HIGHLIGHTS
 
-- Interactive filters (Year, Quarter, Region, Ship Mode)  
-- Dynamic KPI tracking and comparison  
-- Drill-down analysis from region → category → product level  
-- Clean and structured data storytelling  
-- Executive-ready dashboard for decision makers  
-
----
-
-## 📷 DASHBOARD PREVIEW
-
-Insert Power BI screenshot here
+- Advanced KPI tracking (YTD, MTD, YOY)  
+- Multi-dimensional filtering and analysis  
+- Region-based dealer performance comparison  
+- Interactive trend analysis and segmentation  
+- Executive-ready reporting structure  
 
 ---
 
